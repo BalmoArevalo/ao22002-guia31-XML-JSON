@@ -1,0 +1,113 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 20px;
+  padding: 20px;
+}
+
+header .info {
+  background-color: #e9f5ff;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+header .info p {
+  margin: 5px 0;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #007BFF;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+.directory {
+  border: 1px solid #ddd;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+ul li {
+  margin: 8px 0;
+}
+
+ul li ul {
+  padding-left: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #007BFF;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
+
+li::before {
+  content: "📁 ";
+  margin-right: 5px;
+}
+
+ul li ul li::before {
+  content: "📄 ";
+  margin-right: 5px;
+}
+
+.faq {
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+
+.faq h2 {
+  color: #333;
+  margin-top: 20px;
+}
+
+.faq p {
+  color: #555;
+}
+
+.back-link {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+  color: #007BFF;
+}
+
+.back-link:hover {
+  color: #0056b3;
+}

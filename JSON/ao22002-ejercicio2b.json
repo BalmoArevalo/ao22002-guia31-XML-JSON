@@ -1,0 +1,73 @@
+{
+    "pais": {
+      "nombre": "El Salvador",
+      "moneda": "USD",
+      "departamento": [
+        {
+          "id": "1",
+          "nombre": "San Salvador",
+          "codigoArea": "223",
+          "area": "889 km²",
+          "cabecera": "San Salvador",
+          "demografia": {
+            "habitantes": "1,700,000",
+            "altura": "545 MSNM"
+          },
+          "idiomas": {
+            "idioma": [
+              {
+                "codigo": "es",
+                "oficial": "sí"
+              },
+              {
+                "codigo": "nh",
+                "oficial": "no"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2",
+          "nombre": "La Libertad",
+          "codigoArea": "228",
+          "area": "1652 km²",
+          "cabecera": "Santa Tecla",
+          "demografia": {
+            "habitantes": "1,200,000",
+            "altura": "500 MSNM"
+          },
+          "idiomas": {
+            "idioma": [
+              {
+                "codigo": "es",
+                "oficial": "sí"
+              },
+              {
+                "codigo": "le",
+                "oficial": "no"
+              }
+            ]
+          }
+        },
+        {
+          "id": "3",
+          "nombre": "Sonsonate",
+          "codigoArea": "244",
+          "area": "1228 km²",
+          "cabecera": "Sonsonate",
+          "demografia": {
+            "habitantes": "800,000",
+            "altura": "400 MSNM"
+          },
+          "idiomas": {
+            "idioma": [
+              {
+                "codigo": "es",
+                "oficial": "sí"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }

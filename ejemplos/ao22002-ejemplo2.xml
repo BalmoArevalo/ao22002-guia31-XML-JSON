@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet href="ao22002-ejemplo2.css" type="text/css"?>
+<!-- ejemplo2.xml  AO22002 -->
+<pais nombre="El Salvador">
+    <departamento id="1" nombre="San Salvador">
+        <cabecera>San Salvador</cabecera>
+        <habitantes>1,700,000</habitantes>
+        <altura>545 MSNM</altura>
+    </departamento>
+    <a href="../index.html"  xmlns="http://www.w3.org/1999/xhtml">Volver al inicio</a>
+</pais>

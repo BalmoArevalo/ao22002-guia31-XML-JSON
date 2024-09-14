@@ -1,0 +1,5 @@
+/* carnet-ejemplo1.css   AO22002  */
+fichero {background-color:rgb(180, 180, 233);}
+ficha {background-color:red; display:block;} nombre {color:white; display:inline;} apellido {color:yellow; display:inline;}
+direccion {color:yellow;font-size:1cm; display:none;}
+a{color: rgb(249, 252, 252);}

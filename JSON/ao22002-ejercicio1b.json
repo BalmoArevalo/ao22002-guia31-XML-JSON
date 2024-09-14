@@ -1,0 +1,66 @@
+{
+  "fichero": {
+    "ficha": [
+      {
+        "id": "1",
+        "fechaingreso": "1/11/2012",
+        "nombre": "Antonio",
+        "apellido": "Barbero",
+        "direccion": "Calle de Los Andes, 45"
+      },
+      {
+        "id": "2",
+        "fechaingreso": "01/01/2022",
+        "nombre": "Emerson",
+        "apellido": "Arévalo",
+        "direccion": "Sierra Morena, Soyapango",
+        "contacto": {
+          "telefono": [
+            {
+              "tipo": "movil",
+              "numero": "1234-5678"
+            },
+            {
+              "tipo": "fijo",
+              "numero": "8765-4321"
+            }
+          ],
+          "email": "ao22002@ues.edu.sv",
+          "github": "https://github.com/BalmoArevalo"
+        },
+        "intereses": {
+          "interes": ["Programación", "Música"]
+        }
+      },
+      {
+        "id": "3",
+        "fechaingreso": "01/03/2023",
+        "nombre": "Juan",
+        "apellido": "Caballo",
+        "direccion": "Sevilla, España",
+        "contacto": {
+          "telefono": [
+            {
+              "tipo": "movil",
+              "numero": "0987654321"
+            }
+          ],
+          "email": "otrocorreo@gmail..com"
+        },
+        "documentacion": {
+          "dui": {
+            "numero": "12345678-9",
+            "fechaEmision": "01/01/2020"
+          },
+          "isss": {
+            "numero": "ABCDEFGHIJKLMN",
+            "fechaEmision": "02/02/2020"
+          },
+          "afp": {
+            "nombre": "AFP XYZ"
+          }
+        }
+      }
+    ]
+  }
+}

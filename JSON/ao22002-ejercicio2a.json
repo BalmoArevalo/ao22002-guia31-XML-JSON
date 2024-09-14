@@ -1,0 +1,50 @@
+{
+  "pais": {
+    "nombre": "El Salvador",
+    "moneda": "USD",
+    "departamento": [
+      {
+        "id": "1",
+        "nombre": "San Salvador",
+        "codigoArea": "223",
+        "area": "889 km2",
+        "cabecera": "San Salvador",
+        "habitantes": "1,700,000",
+        "altura": "545 MSNM",
+        "idiomas": {
+          "idioma": [
+            {
+              "tipo": "oficial",
+              "nombre": "Español"
+            },
+            {
+              "tipo": "autóctono",
+              "nombre": "Náhuat"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "nombre": "La Libertad",
+        "codigoArea": "228",
+        "area": "1652 km2",
+        "cabecera": "Santa Tecla",
+        "habitantes": "1,200,000",
+        "altura": "500 MSNM",
+        "idiomas": {
+          "idioma": [
+            {
+              "tipo": "oficial",
+              "nombre": "Español"
+            },
+            {
+              "tipo": "autóctono",
+              "nombre": "Lenca"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

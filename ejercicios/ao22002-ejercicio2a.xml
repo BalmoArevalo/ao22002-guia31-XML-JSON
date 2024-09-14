@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet href="ao22002-ejercicio2a.css" type="text/css"?>
+<pais nombre="El Salvador" moneda="USD">
+    <departamento id="1" nombre="San Salvador" codigoArea="223" area="889 km2">
+        <cabecera>San Salvador</cabecera>
+        <habitantes>1,700,000</habitantes>
+        <altura>545 MSNM</altura>
+        <idiomas>
+            <idioma tipo="oficial">Español</idioma>
+            <idioma tipo="autóctono">Náhuat</idioma>
+        </idiomas>
+    </departamento>
+    <departamento id="2" nombre="La Libertad" codigoArea="228" area="1652 km2">
+        <cabecera>Santa Tecla</cabecera>
+        <habitantes>1,200,000</habitantes>
+        <altura>500 MSNM</altura>
+        <idiomas>
+            <idioma tipo="oficial">Español</idioma>
+            <idioma tipo="autóctono">Lenca</idioma>
+        </idiomas>
+    </departamento>
+    <a href="../index.html"  xmlns="http://www.w3.org/1999/xhtml">Volver al inicio</a>
+</pais>
